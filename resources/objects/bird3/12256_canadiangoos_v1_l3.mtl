@@ -1,0 +1,33 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.12.2011 16:25:42
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 12256_canadiangoos_goos_diffuse.jpg
+	map_Kd 12256_canadiangoos_goos_diffuse.jpg
+	map_Ks 12256_canadiangoos_goos_spec.jpg
+	map_bump Map__4_Normal Bump.jpg
+
+newmtl 04___Default
+	Ns 43.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2610 0.2610 0.2610
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 12256_canadiangoos_feet_diffuse.jpg
+	map_Kd 12256_canadiangoos_feet_diffuse.jpg
+	map_bump Map__12_Normal Bump.jpg
