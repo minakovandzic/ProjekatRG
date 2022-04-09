@@ -13,4 +13,6 @@ Projekat iz računarske grafike, korišćen je skelet https://github.com/matf-ra
 `B grupa`: SSAO
 
 
+Video link: https://www.youtube.com/watch?v=3Xbdh1cl93Y
+
 
